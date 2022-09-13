@@ -1,5 +1,9 @@
 # NDEF Library for NFC
 
+https://github.com/huseyinyildirim/nfc_device
+
+https://github.com/huseyinyildirim/ndef
+
 ```csharp
 namespace nfc_ndef
 {
