@@ -1,0 +1,10 @@
+C:\_project\digital-card-windows-service\buluton.acr122u\bin\Debug\buluton.acr122u.dll
+C:\_project\digital-card-windows-service\buluton.acr122u\bin\Debug\buluton.acr122u.pdb
+C:\_project\digital-card-windows-service\buluton.acr122u\bin\Debug\PCSC.dll
+C:\_project\digital-card-windows-service\buluton.acr122u\bin\Debug\PCSC.pdb
+C:\_project\digital-card-windows-service\buluton.acr122u\bin\Debug\PCSC.xml
+C:\_project\digital-card-windows-service\buluton.acr122u\obj\Debug\buluton.nfc_device.csproj.AssemblyReference.cache
+C:\_project\digital-card-windows-service\buluton.acr122u\obj\Debug\buluton.nfc_device.csproj.CoreCompileInputs.cache
+C:\_project\digital-card-windows-service\buluton.acr122u\obj\Debug\buluton.nfc_device.csproj.CopyComplete
+C:\_project\digital-card-windows-service\buluton.acr122u\obj\Debug\buluton.acr122u.dll
+C:\_project\digital-card-windows-service\buluton.acr122u\obj\Debug\buluton.acr122u.pdb
